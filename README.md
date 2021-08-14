@@ -1,4 +1,4 @@
-## Hi, my name is Renan Alencar Dores and i study Computer Science at PUC-SP 
+## Hi, my name is Renan Alencar Dores and I study Computer Science at PUC-SP
 
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about anything.
